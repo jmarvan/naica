@@ -1,0 +1,5 @@
+/target
+/selenium-tests
+/.settings
+.classpath
+.project
